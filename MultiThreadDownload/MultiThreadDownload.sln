@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A600D0B2-09D0-8BA3-4BB9-08A95D0A36D7}") = "MultiThreadDownload", "Assembly-CSharp.csproj", "{43AA84B5-BF62-438A-75B7-FA38573EA7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AA84B5-BF62-438A-75B7-FA38573EA7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AA84B5-BF62-438A-75B7-FA38573EA7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AA84B5-BF62-438A-75B7-FA38573EA7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AA84B5-BF62-438A-75B7-FA38573EA7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

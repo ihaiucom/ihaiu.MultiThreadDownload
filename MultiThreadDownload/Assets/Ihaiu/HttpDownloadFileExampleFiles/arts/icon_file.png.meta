@@ -1,0 +1,1459 @@
+fileFormatVersion: 2
+guid: 654db3381f77f4f1986765ccda5f835a
+timeCreated: 1484029431
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: icon_file_0
+    21300002: icon_file_1
+    21300004: icon_file_2
+    21300006: icon_file_3
+    21300008: icon_file_4
+    21300010: icon_file_5
+    21300012: icon_file_6
+    21300014: icon_file_7
+    21300016: icon_file_8
+    21300018: icon_file_9
+    21300020: icon_file_10
+    21300022: icon_file_11
+    21300024: icon_file_12
+    21300026: icon_file_13
+    21300028: icon_file_14
+    21300030: icon_file_15
+    21300032: icon_file_16
+    21300034: icon_file_17
+    21300036: icon_file_18
+    21300038: icon_file_19
+    21300040: icon_file_20
+    21300042: icon_file_21
+    21300044: icon_file_22
+    21300046: icon_file_23
+    21300048: icon_file_24
+    21300050: icon_file_25
+    21300052: icon_file_26
+    21300054: icon_file_27
+    21300056: icon_file_28
+    21300058: icon_file_29
+    21300060: icon_file_30
+    21300062: icon_file_31
+    21300064: icon_file_32
+    21300066: icon_file_33
+    21300068: icon_file_34
+    21300070: icon_file_35
+    21300072: icon_file_36
+    21300074: icon_file_37
+    21300076: icon_file_38
+    21300078: icon_file_39
+    21300080: icon_file_40
+    21300082: icon_file_41
+    21300084: icon_file_42
+    21300086: icon_file_43
+    21300088: icon_file_44
+    21300090: icon_file_45
+    21300092: icon_file_46
+    21300094: icon_file_47
+    21300096: icon_file_48
+    21300098: icon_file_49
+    21300100: icon_file_50
+    21300102: icon_file_51
+    21300104: icon_file_52
+    21300106: icon_file_53
+    21300108: icon_file_54
+    21300110: icon_file_55
+    21300112: icon_file_56
+    21300114: icon_file_57
+    21300116: icon_file_58
+    21300118: icon_file_59
+    21300120: icon_file_60
+    21300122: icon_file_61
+    21300124: icon_file_62
+    21300126: icon_file_63
+    21300128: icon_file_64
+    21300130: icon_file_65
+    21300132: icon_file_66
+    21300134: icon_file_67
+    21300136: icon_file_68
+    21300138: icon_file_69
+    21300140: icon_file_70
+    21300142: icon_file_71
+    21300144: icon_file_72
+    21300146: icon_file_73
+    21300148: icon_file_74
+    21300150: icon_file_75
+    21300152: icon_file_76
+    21300154: icon_file_77
+    21300156: icon_file_78
+    21300158: icon_file_79
+    21300160: icon_file_80
+    21300162: icon_file_81
+    21300164: icon_file_82
+    21300166: icon_file_83
+    21300168: icon_file_84
+    21300170: icon_file_85
+    21300172: icon_file_86
+    21300174: icon_file_87
+    21300176: icon_file_88
+    21300178: icon_file_89
+    21300180: icon_file_90
+    21300182: icon_file_91
+    21300184: icon_file_92
+    21300186: icon_file_93
+    21300188: icon_file_94
+    21300190: icon_file_95
+    21300192: icon_file_96
+    21300194: icon_file_97
+    21300196: icon_file_98
+    21300198: icon_file_99
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_file_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_7
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_8
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_9
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1348.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_14
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_15
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_16
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_17
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_18
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_19
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1199.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_24
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_25
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_26
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_27
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_28
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_29
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1050.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_34
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_35
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_36
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_37
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_38
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_39
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 901.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_42
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_43
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_44
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_45
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_46
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_47
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_48
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_49
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 752.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_52
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_53
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_54
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_55
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_56
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_57
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_58
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_59
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 603.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_62
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_63
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_64
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_65
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_66
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_67
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_68
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_69
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 454.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_72
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_73
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_74
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_75
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_76
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_77
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_78
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_79
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 305.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_81
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_82
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_83
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_84
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_85
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_86
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_87
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_88
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_89
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 156.2
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_92
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_93
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_94
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_95
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_96
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_97
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_98
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_file_99
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 7.199997
+        width: 143.1
+        height: 149.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
