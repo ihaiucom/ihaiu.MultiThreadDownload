@@ -7,6 +7,7 @@ using System.Text;
 using System;
 using System.Collections.Generic;
 using System.Threading;
+using Ihaius;
 
 
 namespace Ihaiu.Examples
@@ -24,7 +25,8 @@ namespace Ihaiu.Examples
             inputLocalDir.text = DownloadManager.Install.downloadData.dir;
 			if(string.IsNullOrEmpty(inputLocalDir.text))
 			{
-				inputLocalDir.text = System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments) + "/Downloads" ;
+                
+                inputLocalDir.text = DownloadUtil.DownloadsPath;
 			}
     	}
 
@@ -85,7 +87,7 @@ namespace Ihaiu.Examples
         {
             if (string.IsNullOrEmpty(inputLocalDir.text))
             {
-                inputLocalDir.text = System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments) + "/Downloads" ;
+                inputLocalDir.text = DownloadUtil.DownloadsPath;
             }
             gameObject.SetActive(true);
         }

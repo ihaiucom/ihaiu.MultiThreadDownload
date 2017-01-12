@@ -113,7 +113,8 @@ namespace Ihaiu.Examples
             System.Diagnostics.Process.Start( "/usr/bin/open", "-R " + path);
 
             #elif UNITY_STANDALONE_WIN
-            System.Diagnostics.Process.Start("Explorer.exe", path);
+            path = path.Replace("/", "\\");
+            System.Diagnostics.Process.Start("Explorer.exe", "/select, \"" +path+ "\"");
             #endif
         }
 
