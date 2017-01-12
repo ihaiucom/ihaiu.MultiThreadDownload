@@ -69,7 +69,7 @@ namespace Ihaiu.Examples
             commpleteList.Clear();
 
             int count = removeList.Count - 1;
-            for(int i = count; i >= 0; i ++)
+            for(int i = count; i >= 0; i --)
             {
                 removeList[i].Remove();
             }

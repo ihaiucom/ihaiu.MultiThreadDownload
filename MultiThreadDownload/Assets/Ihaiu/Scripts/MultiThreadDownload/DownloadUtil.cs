@@ -21,6 +21,19 @@ namespace Ihaius
                 Directory.CreateDirectory(dir);
             }
         }
+
+        public static string DownloadsPath
+        {
+            get
+            {
+
+                #if UNITY_STANDALONE_WIN
+                return Path.GetFullPath(System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments) + "/../Downloads") ;
+                #else
+                return System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments) + "/Downloads" ;
+                #endif
+            }
+        }
     }
 
 }
