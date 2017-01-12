@@ -88,6 +88,36 @@ namespace Ihaiu.Examples
             }
         }
 
+        public void OnClickOpen()
+        {
+            if (fileInfo != null)
+            {
+                if (File.Exists(fileInfo.localPath))
+                {
+                    RevealInFinder(fileInfo.localPath);
+                }
+                else if (File.Exists(DownloadUtil.GetTmpPath(fileInfo.localPath, 0)))
+                {
+                    RevealInFinder(DownloadUtil.GetTmpPath(fileInfo.localPath, 0));
+                }
+                else
+                {
+                    RevealInFinder(Path.GetDirectoryName(fileInfo.localPath));
+                }
+            }
+        }
+
+        public void RevealInFinder(string path)
+        {
+            #if UNITY_STANDALONE_OSX
+            System.Diagnostics.Process.Start( "/usr/bin/open", "-R " + path);
+
+            #elif UNITY_STANDALONE_WIN
+            System.Diagnostics.Process.Start("Explorer.exe", path);
+            #endif
+        }
+
+
 
 
         void Start () 
